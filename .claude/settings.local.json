@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Test-Path *)",
+      "Bash(venv/Scripts/python.exe -c \"import main; print\\('OK'\\)\")",
+      "Bash(venv/Scripts/python.exe -c \"from pygments.styles import get_all_styles; styles = sorted\\(get_all_styles\\(\\)\\); print\\('\\\\n'.join\\(s for s in styles if 'github' in s.lower\\(\\) or 'dark' in s.lower\\(\\) or 'one' in s.lower\\(\\) or 'vs' in s.lower\\(\\)\\)\\)\")",
+      "Bash(python *)",
+      "Bash(.venv\\\\Scripts\\\\python.exe *)",
+      "PowerShell(.venv\\\\Scripts\\\\python.exe -c \"import sys; sys.path.insert\\(0, '.'\\); import main; print\\('OK'\\)\" 2>&1)",
+      "Bash(venv\\\\Scripts\\\\python.exe *)",
+      "PowerShell(& \"C:\\\\Users\\\\devon\\\\poseidon\\\\venv\\\\Scripts\\\\python.exe\" -c \"from prompt_toolkit.layout.menus import CompletionsMenu; from prompt_toolkit.layout.containers import FloatContainer, Float; print\\('ok'\\)\")",
+      "Bash(Select-String *)"
+    ]
+  }
+}

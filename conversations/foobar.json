@@ -1,0 +1,20 @@
+{
+  "name": "foobar",
+  "model": "gemma4:12b",
+  "saved_at": "2026-06-14T10:46:28",
+  "history": [
+    {
+      "role": "system",
+      "content": "You are running on the following OS: Windows-10-10.0.26200-SP0"
+    },
+    {
+      "role": "user",
+      "content": "How capable are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "I am a large language model, trained by Google. You can think of me as a highly versatile digital assistant capable of processing information, generating creative content, and solving problems across a wide range of topics.\n\nHere is a breakdown of my capabilities:\n\n### 1. **Content Creation & Writing**\n*   **Creative Writing:** I can write stories, poems, scripts, song lyrics, and blog posts.\n*   **Professional Writing:** I can draft emails, reports, resumes, cover letters, and marketing copy.\n*   **Editing:** I can check your grammar, rewrite sentences for better flow, or change the tone of a piece of writing (e.g., making it more professional or more friendly).\n\n### 2. **Coding & Technical Tasks**\n*   **Programming:** I can write code in dozens of languages (Python, JavaScript, C++, SQL, HTML/CSS, etc.).\n*   **Debugging:** If you paste a snippet of code that isn't working, I can often identify the error and provide a fix.\n*   **Data Manipulation:** I can help you write complex Excel formulas or scripts to automate repetitive tasks.\n\n### 3. **Learning & Information Processing**\n*   **Summarization:** Give me a long article or transcript, and I can provide a concise summary or bulleted key takeaways.\n*   **Explanation:** I can explain complex topics (like quantum physics or how a mortgage works) at different levels—from \"Explain like I'm five\" to graduate-level detail.\n*   **Translation:** I can translate text between dozens of major world languages.\n\n### 4. **Analysis & Problem Solving**\n*   **Brainstorming:** I can generate ideas for business names, gift ideas, marketing strategies, or project plans.\n*   **Logic & Math:** I can solve mathematical problems and walk you through the logic step-by-step.\n*   **Decision Support:** If you're torn between two products or career paths, I can create a \"pros and cons\" list based on your specific criteria.\n\n### 5. **What are my limitations?**\nWhile I am quite capable, there are things to keep in mind:\n*   **Fact-Checking:** While I strive for accuracy, I can sometimes \"hallucinate\" (state facts incorrectly). Always double-check critical information, especially regarding medical, legal, or financial advice.\n*   **Real-Time Awareness:** Depending on the specific interface you are using to talk to me, my \"knowledge\" of very recent events might be slightly delayed compared to a live news feed.\n*   **No Physical Body:** I cannot perform physical tasks in the real world (like picking up groceries or moving furniture).\n\n**The best way to see what I can do is to give me a task! What is something you are working on right now?**"
+    }
+  ],
+  "project_map": ""
+}
