@@ -3,7 +3,9 @@
 Written in python, uses Ollama to run models for free and locally.
 Poseidon has no rate limits, bills, token caps, or any of that sort of thing.
 
-To use, first install Ollama, then download a model using ```ollama pull```. Run the poseidon installer (install.sh or install.ps1),
+To use, first install Ollama, then download a model using ```ollama pull```.
+Before anything else, make sure you have a python venv active. Iff not, run ```python -m venv venv```
+Run the poseidon installer (install.sh or install.ps1),
 then activate poseidon through command ```pos```. Use /help inside the prompt for a list of commands.
 You may need to install the necessary packages through ```pip install -r requirements.txt```.
 
